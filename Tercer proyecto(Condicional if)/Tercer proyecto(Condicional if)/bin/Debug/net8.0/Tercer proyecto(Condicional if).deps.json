@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Tercer proyecto(Condicional if)/1.0.0": {
+        "runtime": {
+          "Tercer proyecto(Condicional if).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tercer proyecto(Condicional if)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

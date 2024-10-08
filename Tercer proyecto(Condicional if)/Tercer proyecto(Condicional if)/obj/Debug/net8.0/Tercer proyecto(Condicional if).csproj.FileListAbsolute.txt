@@ -1,0 +1,14 @@
+C:\Users\Nassir\source\repos\Tercer proyecto(Condicional if)\Tercer proyecto(Condicional if)\bin\Debug\net8.0\Tercer proyecto(Condicional if).exe
+C:\Users\Nassir\source\repos\Tercer proyecto(Condicional if)\Tercer proyecto(Condicional if)\bin\Debug\net8.0\Tercer proyecto(Condicional if).deps.json
+C:\Users\Nassir\source\repos\Tercer proyecto(Condicional if)\Tercer proyecto(Condicional if)\bin\Debug\net8.0\Tercer proyecto(Condicional if).runtimeconfig.json
+C:\Users\Nassir\source\repos\Tercer proyecto(Condicional if)\Tercer proyecto(Condicional if)\bin\Debug\net8.0\Tercer proyecto(Condicional if).dll
+C:\Users\Nassir\source\repos\Tercer proyecto(Condicional if)\Tercer proyecto(Condicional if)\bin\Debug\net8.0\Tercer proyecto(Condicional if).pdb
+C:\Users\Nassir\source\repos\Tercer proyecto(Condicional if)\Tercer proyecto(Condicional if)\obj\Debug\net8.0\Tercer proyecto(Condicional if).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nassir\source\repos\Tercer proyecto(Condicional if)\Tercer proyecto(Condicional if)\obj\Debug\net8.0\Tercer proyecto(Condicional if).AssemblyInfoInputs.cache
+C:\Users\Nassir\source\repos\Tercer proyecto(Condicional if)\Tercer proyecto(Condicional if)\obj\Debug\net8.0\Tercer proyecto(Condicional if).AssemblyInfo.cs
+C:\Users\Nassir\source\repos\Tercer proyecto(Condicional if)\Tercer proyecto(Condicional if)\obj\Debug\net8.0\Tercer proyecto(Condicional if).csproj.CoreCompileInputs.cache
+C:\Users\Nassir\source\repos\Tercer proyecto(Condicional if)\Tercer proyecto(Condicional if)\obj\Debug\net8.0\Tercer proyecto(Condicional if).dll
+C:\Users\Nassir\source\repos\Tercer proyecto(Condicional if)\Tercer proyecto(Condicional if)\obj\Debug\net8.0\refint\Tercer proyecto(Condicional if).dll
+C:\Users\Nassir\source\repos\Tercer proyecto(Condicional if)\Tercer proyecto(Condicional if)\obj\Debug\net8.0\Tercer proyecto(Condicional if).pdb
+C:\Users\Nassir\source\repos\Tercer proyecto(Condicional if)\Tercer proyecto(Condicional if)\obj\Debug\net8.0\Tercer proyecto(Condicional if).genruntimeconfig.cache
+C:\Users\Nassir\source\repos\Tercer proyecto(Condicional if)\Tercer proyecto(Condicional if)\obj\Debug\net8.0\ref\Tercer proyecto(Condicional if).dll
