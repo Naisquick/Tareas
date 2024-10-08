@@ -1,0 +1,14 @@
+C:\Users\Nassir\source\repos\Sexta aplicacion(Definir y llamar metodos)\Sexta aplicacion(Definir y llamar metodos)\bin\Debug\net8.0\Sexta aplicacion(Definir y llamar metodos).exe
+C:\Users\Nassir\source\repos\Sexta aplicacion(Definir y llamar metodos)\Sexta aplicacion(Definir y llamar metodos)\bin\Debug\net8.0\Sexta aplicacion(Definir y llamar metodos).deps.json
+C:\Users\Nassir\source\repos\Sexta aplicacion(Definir y llamar metodos)\Sexta aplicacion(Definir y llamar metodos)\bin\Debug\net8.0\Sexta aplicacion(Definir y llamar metodos).runtimeconfig.json
+C:\Users\Nassir\source\repos\Sexta aplicacion(Definir y llamar metodos)\Sexta aplicacion(Definir y llamar metodos)\bin\Debug\net8.0\Sexta aplicacion(Definir y llamar metodos).dll
+C:\Users\Nassir\source\repos\Sexta aplicacion(Definir y llamar metodos)\Sexta aplicacion(Definir y llamar metodos)\bin\Debug\net8.0\Sexta aplicacion(Definir y llamar metodos).pdb
+C:\Users\Nassir\source\repos\Sexta aplicacion(Definir y llamar metodos)\Sexta aplicacion(Definir y llamar metodos)\obj\Debug\net8.0\Sexta aplicacion(Definir y llamar metodos).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nassir\source\repos\Sexta aplicacion(Definir y llamar metodos)\Sexta aplicacion(Definir y llamar metodos)\obj\Debug\net8.0\Sexta aplicacion(Definir y llamar metodos).AssemblyInfoInputs.cache
+C:\Users\Nassir\source\repos\Sexta aplicacion(Definir y llamar metodos)\Sexta aplicacion(Definir y llamar metodos)\obj\Debug\net8.0\Sexta aplicacion(Definir y llamar metodos).AssemblyInfo.cs
+C:\Users\Nassir\source\repos\Sexta aplicacion(Definir y llamar metodos)\Sexta aplicacion(Definir y llamar metodos)\obj\Debug\net8.0\Sexta aplicacion(Definir y llamar metodos).csproj.CoreCompileInputs.cache
+C:\Users\Nassir\source\repos\Sexta aplicacion(Definir y llamar metodos)\Sexta aplicacion(Definir y llamar metodos)\obj\Debug\net8.0\Sexta aplicacion(Definir y llamar metodos).dll
+C:\Users\Nassir\source\repos\Sexta aplicacion(Definir y llamar metodos)\Sexta aplicacion(Definir y llamar metodos)\obj\Debug\net8.0\refint\Sexta aplicacion(Definir y llamar metodos).dll
+C:\Users\Nassir\source\repos\Sexta aplicacion(Definir y llamar metodos)\Sexta aplicacion(Definir y llamar metodos)\obj\Debug\net8.0\Sexta aplicacion(Definir y llamar metodos).pdb
+C:\Users\Nassir\source\repos\Sexta aplicacion(Definir y llamar metodos)\Sexta aplicacion(Definir y llamar metodos)\obj\Debug\net8.0\Sexta aplicacion(Definir y llamar metodos).genruntimeconfig.cache
+C:\Users\Nassir\source\repos\Sexta aplicacion(Definir y llamar metodos)\Sexta aplicacion(Definir y llamar metodos)\obj\Debug\net8.0\ref\Sexta aplicacion(Definir y llamar metodos).dll

@@ -1,0 +1,14 @@
+C:\Users\Nassir\source\repos\Programa 7(Instruccion While)\Programa 7(Instruccion While)\bin\Debug\net8.0\Programa 7(Instruccion While).exe
+C:\Users\Nassir\source\repos\Programa 7(Instruccion While)\Programa 7(Instruccion While)\bin\Debug\net8.0\Programa 7(Instruccion While).deps.json
+C:\Users\Nassir\source\repos\Programa 7(Instruccion While)\Programa 7(Instruccion While)\bin\Debug\net8.0\Programa 7(Instruccion While).runtimeconfig.json
+C:\Users\Nassir\source\repos\Programa 7(Instruccion While)\Programa 7(Instruccion While)\bin\Debug\net8.0\Programa 7(Instruccion While).dll
+C:\Users\Nassir\source\repos\Programa 7(Instruccion While)\Programa 7(Instruccion While)\bin\Debug\net8.0\Programa 7(Instruccion While).pdb
+C:\Users\Nassir\source\repos\Programa 7(Instruccion While)\Programa 7(Instruccion While)\obj\Debug\net8.0\Programa 7(Instruccion While).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nassir\source\repos\Programa 7(Instruccion While)\Programa 7(Instruccion While)\obj\Debug\net8.0\Programa 7(Instruccion While).AssemblyInfoInputs.cache
+C:\Users\Nassir\source\repos\Programa 7(Instruccion While)\Programa 7(Instruccion While)\obj\Debug\net8.0\Programa 7(Instruccion While).AssemblyInfo.cs
+C:\Users\Nassir\source\repos\Programa 7(Instruccion While)\Programa 7(Instruccion While)\obj\Debug\net8.0\Programa 7(Instruccion While).csproj.CoreCompileInputs.cache
+C:\Users\Nassir\source\repos\Programa 7(Instruccion While)\Programa 7(Instruccion While)\obj\Debug\net8.0\Programa 7(Instruccion While).dll
+C:\Users\Nassir\source\repos\Programa 7(Instruccion While)\Programa 7(Instruccion While)\obj\Debug\net8.0\refint\Programa 7(Instruccion While).dll
+C:\Users\Nassir\source\repos\Programa 7(Instruccion While)\Programa 7(Instruccion While)\obj\Debug\net8.0\Programa 7(Instruccion While).pdb
+C:\Users\Nassir\source\repos\Programa 7(Instruccion While)\Programa 7(Instruccion While)\obj\Debug\net8.0\Programa 7(Instruccion While).genruntimeconfig.cache
+C:\Users\Nassir\source\repos\Programa 7(Instruccion While)\Programa 7(Instruccion While)\obj\Debug\net8.0\ref\Programa 7(Instruccion While).dll

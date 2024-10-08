@@ -1,0 +1,14 @@
+C:\Users\Nassir\source\repos\Programa 10 (Clases)\Programa 10 (Clases)\bin\Debug\net8.0\Programa 10 (Clases).exe
+C:\Users\Nassir\source\repos\Programa 10 (Clases)\Programa 10 (Clases)\bin\Debug\net8.0\Programa 10 (Clases).deps.json
+C:\Users\Nassir\source\repos\Programa 10 (Clases)\Programa 10 (Clases)\bin\Debug\net8.0\Programa 10 (Clases).runtimeconfig.json
+C:\Users\Nassir\source\repos\Programa 10 (Clases)\Programa 10 (Clases)\bin\Debug\net8.0\Programa 10 (Clases).dll
+C:\Users\Nassir\source\repos\Programa 10 (Clases)\Programa 10 (Clases)\bin\Debug\net8.0\Programa 10 (Clases).pdb
+C:\Users\Nassir\source\repos\Programa 10 (Clases)\Programa 10 (Clases)\obj\Debug\net8.0\Programa 10 (Clases).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nassir\source\repos\Programa 10 (Clases)\Programa 10 (Clases)\obj\Debug\net8.0\Programa 10 (Clases).AssemblyInfoInputs.cache
+C:\Users\Nassir\source\repos\Programa 10 (Clases)\Programa 10 (Clases)\obj\Debug\net8.0\Programa 10 (Clases).AssemblyInfo.cs
+C:\Users\Nassir\source\repos\Programa 10 (Clases)\Programa 10 (Clases)\obj\Debug\net8.0\Programa 10 (Clases).csproj.CoreCompileInputs.cache
+C:\Users\Nassir\source\repos\Programa 10 (Clases)\Programa 10 (Clases)\obj\Debug\net8.0\Programa 10 (Clases).dll
+C:\Users\Nassir\source\repos\Programa 10 (Clases)\Programa 10 (Clases)\obj\Debug\net8.0\refint\Programa 10 (Clases).dll
+C:\Users\Nassir\source\repos\Programa 10 (Clases)\Programa 10 (Clases)\obj\Debug\net8.0\Programa 10 (Clases).pdb
+C:\Users\Nassir\source\repos\Programa 10 (Clases)\Programa 10 (Clases)\obj\Debug\net8.0\Programa 10 (Clases).genruntimeconfig.cache
+C:\Users\Nassir\source\repos\Programa 10 (Clases)\Programa 10 (Clases)\obj\Debug\net8.0\ref\Programa 10 (Clases).dll
