@@ -1,0 +1,14 @@
+C:\Users\Nassir\source\repos\Cuarta aplicacion(Iteracion for)\Cuarta aplicacion(Iteracion for)\bin\Debug\net8.0\Cuarta aplicacion(Iteracion for).exe
+C:\Users\Nassir\source\repos\Cuarta aplicacion(Iteracion for)\Cuarta aplicacion(Iteracion for)\bin\Debug\net8.0\Cuarta aplicacion(Iteracion for).deps.json
+C:\Users\Nassir\source\repos\Cuarta aplicacion(Iteracion for)\Cuarta aplicacion(Iteracion for)\bin\Debug\net8.0\Cuarta aplicacion(Iteracion for).runtimeconfig.json
+C:\Users\Nassir\source\repos\Cuarta aplicacion(Iteracion for)\Cuarta aplicacion(Iteracion for)\bin\Debug\net8.0\Cuarta aplicacion(Iteracion for).dll
+C:\Users\Nassir\source\repos\Cuarta aplicacion(Iteracion for)\Cuarta aplicacion(Iteracion for)\bin\Debug\net8.0\Cuarta aplicacion(Iteracion for).pdb
+C:\Users\Nassir\source\repos\Cuarta aplicacion(Iteracion for)\Cuarta aplicacion(Iteracion for)\obj\Debug\net8.0\Cuarta aplicacion(Iteracion for).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nassir\source\repos\Cuarta aplicacion(Iteracion for)\Cuarta aplicacion(Iteracion for)\obj\Debug\net8.0\Cuarta aplicacion(Iteracion for).AssemblyInfoInputs.cache
+C:\Users\Nassir\source\repos\Cuarta aplicacion(Iteracion for)\Cuarta aplicacion(Iteracion for)\obj\Debug\net8.0\Cuarta aplicacion(Iteracion for).AssemblyInfo.cs
+C:\Users\Nassir\source\repos\Cuarta aplicacion(Iteracion for)\Cuarta aplicacion(Iteracion for)\obj\Debug\net8.0\Cuarta aplicacion(Iteracion for).csproj.CoreCompileInputs.cache
+C:\Users\Nassir\source\repos\Cuarta aplicacion(Iteracion for)\Cuarta aplicacion(Iteracion for)\obj\Debug\net8.0\Cuarta aplicacion(Iteracion for).dll
+C:\Users\Nassir\source\repos\Cuarta aplicacion(Iteracion for)\Cuarta aplicacion(Iteracion for)\obj\Debug\net8.0\refint\Cuarta aplicacion(Iteracion for).dll
+C:\Users\Nassir\source\repos\Cuarta aplicacion(Iteracion for)\Cuarta aplicacion(Iteracion for)\obj\Debug\net8.0\Cuarta aplicacion(Iteracion for).pdb
+C:\Users\Nassir\source\repos\Cuarta aplicacion(Iteracion for)\Cuarta aplicacion(Iteracion for)\obj\Debug\net8.0\Cuarta aplicacion(Iteracion for).genruntimeconfig.cache
+C:\Users\Nassir\source\repos\Cuarta aplicacion(Iteracion for)\Cuarta aplicacion(Iteracion for)\obj\Debug\net8.0\ref\Cuarta aplicacion(Iteracion for).dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Cuarta aplicacion(Iteracion for)/1.0.0": {
+        "runtime": {
+          "Cuarta aplicacion(Iteracion for).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cuarta aplicacion(Iteracion for)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
